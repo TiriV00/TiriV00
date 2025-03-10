@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Valerio
+# Hi, I’m Valerio
 
 👀 I’m an Electronic Engineer with a Master degree in Electronics Engineering for Intelligent Vehicles [MUNER - EEIV/ADE].
 
